@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IP info
+Comment=Get information about your ip
+Exec=ip-info 
+Icon=${SNAP}/meta/gui/ip-info.png # replace name to your app name
+Terminal=false
+Type=Application
+Categories=Education; #adjust accordingly your snap category
