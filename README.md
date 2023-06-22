@@ -1,16 +1,23 @@
 # ip_info
 
-A new Flutter project.
+A flutter app to view basic info about your IP address
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+0. Prepapre a flutter IDE [tutorial here](https://docs.flutter.dev/get-started/install)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. clone the repository 📂
+```
+git clone https://github.com/sk-geek/tasker.git
+```
+2. Getting dependices ⬇️
+```
+fluter pup get
+```
+3. Run the app ⚡
+```
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Remember to check my [telegram channel](https://t.me/sezar3l3)
